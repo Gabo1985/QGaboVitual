@@ -1,0 +1,17 @@
+{
+  "socketURL": "/",
+  "dirPath": "",
+  "homePage": "/demos/index.html",
+  "socketMessageEvent": "RTCMultiConnection-Message",
+  "socketCustomEvent": "RTCMultiConnection-Custom-Message",
+  "port": "9001",
+  "enableLogs": "false",
+  "autoRebootServerOnFailure": "false",
+  "isUseHTTPs": "true",
+  "sslKey": "./fake-keys/192.168.1.2.key.pem",
+  "sslCert": "./fake-keys/192.168.1.2.pem",
+  "sslCabundle": "",
+  "enableAdmin": "true",
+  "adminUserName": "username",
+  "adminPassword": "password"
+}
